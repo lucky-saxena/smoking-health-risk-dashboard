@@ -8,31 +8,31 @@ Users pick an organ (Heart, Human Body, Kidney, Liver, Lungs) and toggle **Healt
 
 ### Healthy organs
 
-| Heart | Human Body |
+| Heart | Lungs |
 |---|---|
-| ![Healthy heart](healthy-heart.png) | ![Healthy human body](healthy-human-body.png) |
+| ![Healthy heart](healthy-heart.png) | ![Healthy lungs](healthy-lungs.png) |
 
 | Kidney | Liver |
 |---|---|
 | ![Healthy kidney](healthy-kidney.png) | ![Healthy liver](healthy-liver.png) |
 
-| Lungs |
+| Human Body |
 |---|
-| ![Healthy lungs](healthy-lungs.png) |
+| ![Healthy human body](healthy-human-body.png) |
 
 ### Damaged organs
 
-| Heart | Human Body |
+| Heart | Lungs |
 |---|---|
-| ![Damaged heart](damaged-heart.png) | ![Damaged human body](damaged-human-body.png) |
+| ![Damaged heart](damaged-heart.png) | ![Damaged lungs](damaged-lungs.png) |
 
 | Kidney | Liver |
 |---|---|
 | ![Damaged kidney](damaged-kidney.png) | ![Damaged liver](damaged-liver.png) |
 
-| Lungs |
+| Human Body |
 |---|
-| ![Damaged lungs](damaged-lungs.png) |
+| ![Damaged human body](damaged-human-body.png) |
 
 ### Total patients by selection
 
